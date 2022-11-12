@@ -2,17 +2,6 @@
   <img src="assets/logo.jpg" alt="Eva Maria Logo">
 </p>
 <h1 align="center">
-  <b>Eva Maria Bot</b>
-</h1>
-
-
-[![Stars](https://img.shields.io/github/stars/AM-ROBOTS/EvaMaria?style=flat-square&color=yellow)](https://github.com/AM-ROBOTS/EvaMaria/stargazers)
-[![Forks](https://img.shields.io/github/forks/AM-ROBOTS/EvaMaria?style=flat-square&color=orange)](https://github.com/AM-ROBOTS/EvaMaria/fork)
-[![Size](https://img.shields.io/github/repo-size/AM-ROBOTS/EvaMaria?style=flat-square&color=green)](https://github.com/AM-ROBOTS/EvaMaria/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/AM-ROBOTS/EvaMaria)   
-[![Contributors](https://img.shields.io/github/contributors/AM-ROBOTS/EvaMaria?style=flat-square&color=green)](https://github.com/AM-ROBOTS/EvaMaria/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/AM-ROBOTS/EvaMaria/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/8769ANURAG/EvaMaria.svg)](https://stars.medv.io/AM-ROBOTS/EvaMaria)
 
 
 ## Features
